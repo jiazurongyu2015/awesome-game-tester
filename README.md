@@ -27,8 +27,9 @@
 
 ### 安卓
 - [WeTest助手](https://wetest.qq.com/cloud/help/effective) - WeTest平台出品的APP性能数据采集工具，支持Android2.3 - 5.1
+- [WeTestperfdog](https://perfdog.qq.com/retrieve) -WeTest平台出品支持APP性能数据采集工具，提供截图，区域快照，多参数性能采集等功能 支持IOS，Android。
 - [GT](https://github.com/Tencent/GT) - 腾讯开源的APP的性能监控，调试框架
-- [Emmagee](https://github.com/NetEase/Emmagee) - 网易开源的APP性能监控工具，不支持Android 7.0以上版本
+- [Emmagee](https://github.com/NetEase/Emmagee) - 网易开源的APP性能监控工具，不支持Android 7.0以上版本（目前已经不维护了）
 - [adb](https://developer.android.com/studio/command-line/adb.html) - 安卓SDK自带的调试工具，通过adb shell命令获取性能数据
 - [GameBench](https://www.gamebench.net/) - 收费软件
 - [Battery Historian](https://github.com/google/battery-historian) - 生成电量消耗报告
